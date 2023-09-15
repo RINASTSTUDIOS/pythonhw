@@ -1,0 +1,2 @@
+# pythonhw
+Python ödevi
